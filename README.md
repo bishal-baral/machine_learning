@@ -1,6 +1,6 @@
 # Machine Learning Models
 
-Compilation of different machine learning models and algorithms for future reference
+Compilation of different machine learning models and algorithms for reference
 
 - Data Preprocessing
 - Regression
